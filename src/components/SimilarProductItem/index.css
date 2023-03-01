@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.rate-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.sim-cont {
+  list-style-type: none;
+}

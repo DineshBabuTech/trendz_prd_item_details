@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.prd-item-cont {
+  display: flex;
+  align-items: center;
+}
+.fail-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.link2 {
+  text-decoration: none;
+}
+.btn {
+  cursor: pointer;
+  outline: none;
+}
+.similar-cont {
+  padding-left: 0px;
+  display: flex;
+  align-items: center;
+}
